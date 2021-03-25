@@ -1,2 +1,2 @@
-from microbit import*
-display.show(Image.heart)
+from microbit import *
+display.show(Image.HEART)
